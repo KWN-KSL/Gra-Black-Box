@@ -11,9 +11,9 @@ Black Box to gra logiczna stworzona w języku C++ w ramach projektu na 1. semest
 ### Cel gry: Znaleźć ukryte atomy w niewidocznej siatce, wykorzystując możliwie najmniejszą liczbę strzałów.
 ### Mechanika:
 Gracz "strzela" promieniem z krawędzi planszy.
-* Promień może:
-Wylecieć na wprost (trafienie pustego pola).
-Odbić się lub skręcić, gdy zbliży się do kuli.
-Zniknąć – gdy trafi bezpośrednio w kulę (trafienie).
-Gracz na podstawie zachowania promieni dedukuje położenie kul i zaznacza je na planszy.
-Punkty przyznawane są za trafne wskazanie kul i optymalne wykorzystanie strzałów.
+Promień może:
+* Wylecieć na wprost (trafienie pustego pola).
+* Odbić się lub skręcić, gdy zbliży się do kuli.
+* Zniknąć – gdy trafi bezpośrednio w kulę (trafienie).
+* Gracz na podstawie zachowania promieni dedukuje położenie kul i zaznacza je na planszy.
+* Punkty przyznawane są za trafne wskazanie kul i optymalne wykorzystanie strzałów.
