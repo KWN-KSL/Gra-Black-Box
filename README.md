@@ -1,4 +1,4 @@
-# Black Box Game
+# 🎮 Black Box Game
 Black Box to gra logiczna stworzona w języku C++ w ramach projektu na 1. semestrze studiów. Gracz staje przed wyzwaniem odnalezienia ukrytych "atomów" w siatce, korzystając wyłącznie z efektów, jakie wywołują promienie świetlne wpuszczane z krawędzi planszy.
 Przyklad gry:
 Początkowe menu
